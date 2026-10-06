@@ -1,0 +1,1 @@
+https://inerplat.notion.site/3-Kubernetes-119dce53984280619afbe8d130b8e24e
